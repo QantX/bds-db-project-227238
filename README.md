@@ -1,7 +1,7 @@
 # bds-db-project-227238
 ## Clothing e-shop database app made in python and psycopg
 
-## How to run the project in command line: in the project folder open command prompt and type the following: 
+## How to run the project in command line: in the project folder open command prompt or in pycharm open terminal and type the following: 
 
 ```
 python main.py
