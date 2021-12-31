@@ -1,2 +1,2 @@
-### Libraries used in the project:
-## psycopg2, datetime, logging, PyQt5, QtCore, QtGui, QtWidgets, PyQt5.QtWidgets, QApplication, QTableWidgetItem, sys, bcrypt, logging.handlers, TimedRotatingFileHandler     
+#Libraries used in the project:
+psycopg2, datetime, logging, PyQt5, QtCore, QtGui, QtWidgets, PyQt5.QtWidgets, QApplication, QTableWidgetItem, sys, bcrypt, logging.handlers, TimedRotatingFileHandler     
